@@ -31,7 +31,7 @@ Paper: S. Yang, Z. Quan, M. Nie, and W. Yang, “TransPose: Keypoint Localizatio
      /experiments/coco/transpose_r/TP_R_256x192_d256_h1024_enc4_mh8.yaml. Modify DATASET.ROOT : '<your_local_dir>/data/coco/'.
 
      
-5. Run Server
+5. **Run Server**
    ```bash
    cd /lib
    python ~/custom_scripts/runserver.py
